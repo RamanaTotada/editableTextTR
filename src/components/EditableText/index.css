@@ -1,0 +1,30 @@
+.main-container {
+  background-color: #f5d0fe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.editable-container {
+  background-color: white;
+  padding: 15px;
+  border-radius: 8px;
+}
+.button-container {
+  padding: 15px;
+  flex-wrap: nowrap;
+  display: flex;
+  flex-direction: row;
+}
+.button-style {
+  background-color: #d946ef;
+  color: #ffffff;
+  margin: 10px;
+  border-width: 0px;
+  height: 20px;
+  width: 40px;
+}
+.input-value {
+  color: #323f4b;
+  margin: 10px;
+}
